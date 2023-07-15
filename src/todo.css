@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.input{
+    height: 7vh;
+    width: 30vw;
+   
+    
+}
+.inputField{
+    background: none;
+}
+
+.main-div{
+    padding-top: 10%;
+}

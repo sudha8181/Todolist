@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    background-color: dodgerblue;
+}
+
+#root{
+    flex-grow: 1;
+    background-color: dodgerblue;
+}
+
+.list{
+    width: 30vw;
+    height: 6vh;
+    border-radius: 4px;
+}
